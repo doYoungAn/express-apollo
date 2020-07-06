@@ -1,0 +1,7 @@
+# import * from './loading.graphql'
+
+type Query {
+    name: String!
+    pageLoading: PageLoading!
+    desc: String!
+}

@@ -1,0 +1,17 @@
+type Item {
+    name: String!
+}
+
+type Search {
+    offices: [Item]!
+}
+
+type Row {
+    id: String!
+    companyName: String!
+}
+
+type PageLoading {
+    search: Search!
+    rows: [Row]!
+}

@@ -1,0 +1,7 @@
+type SearchItem {
+    name: String!
+}
+
+type Search {
+    offices: [SearchItem]!
+}
