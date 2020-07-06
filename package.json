@@ -1,0 +1,19 @@
+{
+  "name": "express-apollo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doYoungAn/express-apollo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doYoungAn/express-apollo/issues"
+  },
+  "homepage": "https://github.com/doYoungAn/express-apollo#readme"
+}
