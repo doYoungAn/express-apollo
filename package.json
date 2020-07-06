@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/doYoungAn/express-apollo/issues"
   },
-  "homepage": "https://github.com/doYoungAn/express-apollo#readme"
+  "homepage": "https://github.com/doYoungAn/express-apollo#readme",
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  }
 }
